@@ -1,0 +1,4 @@
+- 👋 Hi, I'm @Demusche, a student of computer science at Chalmers University 
+- 👀 I'm interested in hardware construction, C, C++, and innovation. 
+- 🌱 I'm currently learning C++
+- 📫 Reach me on LinkedIn: Salam Hani
