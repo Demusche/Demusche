@@ -1,3 +1,2 @@
-- 👋 Hi, I'm @Demusche, a student of computer science at Chalmers University 
-- 👀 I'm interested in both software development 
-- 📫 Reach me on LinkedIn: Salam Hani
+Hi, I'm @Demusche, a student of computer science at Chalmers University 
+Reach me on LinkedIn: Salam Hani
