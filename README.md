@@ -9,9 +9,9 @@ I hold a **B.Sc. in Computer Science and Engineering** and am currently pursuing
 - **Embedded Systems**: Built an alarm system with **STM32**, using **C** and version control with **Git**.
   
 💻 **Skills**  
-- **Languages**: Java, Python, C, C++, C#, Kotlin, Dart, Haskell, Erlang, Assembly, Matlab.  
+- **Languages**: Java, Python, C, C++, C#, Kotlin, Dart, Haskell, Erlang, Futhark, Assembly, Matlab.  
 - **Specializations**: Deep Neural Networks, AI/ML, Parallelism, and Embedded Systems.  
-- **Tools**: Git, LaTeX, Futhark.  
+- **Tools**: Git, LaTeX.  
 
 🎤 Beyond technology, I enjoy **singing**, **playing guitar**, and exploring the **art of cooking**. My curiosity and creativity drive me in both personal and professional endeavors.
 
