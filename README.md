@@ -18,7 +18,6 @@ I hold a **B.Sc. in Computer Science and Engineering** and am currently pursuing
 🌍 **Experience**  
 - **Junior Software Developer** at **Food Radar**, working on projects ranging from **AI/ML** to front-end development.
 - **Coding Teacher** at Learnist, skilled in pedagogy and creating engaging learning environments.
-- Previous experience in customer service as a **Store Clerk** at Willys.
 
 📫 **Connect with me**  
 - Email: [salamh@chalmers.se](mailto:salamh@chalmers.se)  
